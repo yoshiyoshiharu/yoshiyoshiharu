@@ -5,5 +5,5 @@ I'm majoring in intelligent systems science.
 
 - 🌱 I’m currently learning ...Python
 - 📫 How to reach me: ...email: haruki.osaka.u@gmail.com
-- ⚡ My hobby: ...Drink🍺 , Music🎧 , Muscle Training💪 , 
+- ⚡ My hobby: ...Drink🍺 , Music🎧 , Muscle Training💪 , Snowboard🏂 
 

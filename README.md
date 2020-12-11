@@ -8,4 +8,4 @@ I'm majoring in intelligent systems science.
 - ⚡ My hobby ...Drink🍺 , Music🎧 , Muscle Training💪 , Snowboard🏂 , Soccer⚽   
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoshiyoshiharu)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiyoshiharu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)

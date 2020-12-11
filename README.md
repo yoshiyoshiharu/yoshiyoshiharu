@@ -7,7 +7,7 @@ I'm majoring in intelligent systems science.
 - 📫 How to reach me ...email: haruki.osaka.u@gmail.com
 - ⚡ My hobby ...Drink🍺 , Music🎧 , Muscle Training💪 , Snowboard🏂 , Soccer⚽   
   
-![pinkumohikan's github stats](https://github-readme-stats.vercel.app/api?username=pinkumohikan&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkumohikan&theme=radical)
+![pinkumohikan's github stats](https://github-readme-stats.vercel.app/api?username=yoshiyoshiharu&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiyoshiharu&theme=radical)
 
 These cards are powered by https://github.com/anuraghazra/github-readme-stats
